@@ -1,4 +1,4 @@
-import { SET_SORT_BY, SET_CATEGORY } from "../actions/filters-action";
+import { SET_SORT_BY, SET_CATEGORY } from "../actions/filters-actions";
 const initialState = {
     sortBy: "popular",
     category: 0,

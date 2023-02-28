@@ -6,7 +6,7 @@ function Home({ items }) {
     <div className="container">
       <div className="content__top">
         <Categories
-          items={[
+          categories={[
             "Все",
             "Мясные",
             "Вегетарианская",
